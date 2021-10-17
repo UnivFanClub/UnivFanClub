@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on, well, uh, I'm working on learning.
-- 🌱 I’m currently learning CSS and Javascript.
-- 👯 I’m looking to collaborate on... I'm afraid I can't help much right now.
-- 🤔 I’m looking for help with everything.
-- 💬 Ask me about professional audiovisual productions.
+- 🌱 I’m currently learning HTML, CSS and Javascript,
+- 💬 Ask me about music.
 - 📫 How to reach me: instagram.com/univfanclub
 - ⚡ Fun fact: :^)
